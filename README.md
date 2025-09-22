@@ -64,6 +64,10 @@ This project is a payment processing system implemented in Java using the **Temp
 - Enum representing the available payment gateways (e.g., `PAYTM`, `RAZORPAY`).
 
 ---
+## UML Diagram:
+
+<img width="837" height="564" alt="image" src="https://github.com/user-attachments/assets/b0545930-5054-408b-9164-4a3569f52259" />
+
 
 ## How to Run
 1. Clone the repository.
